@@ -11,10 +11,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.manus.audit5s",
-      "adaptiveIcon": {
-        "backgroundColor": "#ffffff"
-      }
+      "package": "com.manus.audit5s"
     },
     "web": {
       "bundler": "metro",

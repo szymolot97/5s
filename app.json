@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "5S Audit App",
+    "slug": "5s-audit-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "audit5s",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.manus.audit5s",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
